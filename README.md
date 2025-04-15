@@ -39,17 +39,17 @@ Brought all visuals together using:Clean layout,Grouped metrics,Consistent color
 
  **Key Highlights**
  
-1.Volume and Engagement:
+1.Volume and Engagement
   We handled 1,000 calls, with 189 handled by our top rep R01. The total duration of calls was nearly 90,000 minutes, showing strong customer engagement.
-2.Financial Performance:
+2.Financial Performance
    Generated $96,623 in total, with R02 contributing the highest at $20.9K, followed by R03 and R05. This indicates R02 is not only handling calls well but also generating high value.
-3.Call Trends:
+3.Call Trends
   Call volume peaked in March, suggesting a seasonal trend or successful campaign. The lowest was in July, possibly due to holidays or low marketing activity.
-4.Customer Satisfaction:
+4.Customer Satisfaction
  Achieved an average rating of 3.9, with 307 happy callers. Most ratings clustered around 4 and 5, indicating overall satisfaction but with room to grow.
-5. Demographics and Timing:
+5. Demographics and Timing
  Interestingly, Saturday had the highest call volume, followed by Sunday, suggesting we need strong weekend staffing. In terms of caller demographics, Columbus had the highest female callers (206), while Cincinnati had a more balanced distribution.
-6. Rep Performance:
+6. Rep Performance
 Looking at individual performance, R02 and R03 consistently show strong numbers in both amount and call handling. This helps us identify training opportunities for lower-performing reps.
 
 **Conclusion and Action Points**
