@@ -38,6 +38,7 @@ Using slicers or filters, highlighted one rep (like R01) and displayed their per
 Brought all visuals together using:Clean layout,Grouped metrics,Consistent color scheme & KPI cards and charts
 
  **Key Highlights**
+ 
 1.Volume and Engagement:
   We handled 1,000 calls, with 189 handled by our top rep R01. The total duration of calls was nearly 90,000 minutes, showing strong customer engagement.
 2.Financial Performance:
