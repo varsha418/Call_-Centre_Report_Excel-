@@ -40,8 +40,6 @@ _Customer Satisfaction :Achieved an average rating of 3.9, with 307 happy caller
 _Demographics and Timing :Interestingly, Saturday had the highest call volume, followed by Sunday, suggesting we need strong weekend staffing. In terms of caller demographics, Columbus had the highest female callers (206), while Cincinnati had a more balanced distribution.
 _Rep Performance:Looking at individual performance, R02 and R03 consistently show strong numbers in both amount and call handling. This helps us identify training opportunities for lower-performing reps.
 
-
-
 **Conclusion and Action Points**
 Overall, our call center shows strong performance in key areas. Going forward, we should:
  -Focus on improving ratings through training.
